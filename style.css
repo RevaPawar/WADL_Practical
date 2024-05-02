@@ -1,0 +1,17 @@
+.imgmain{
+    margin-top: 10px;
+    margin-bottom :10px;
+    border-radius: 5px;
+}
+
+h1{
+    color: red;
+}
+
+.footer{
+    padding: 20px;
+}
+
+#story{
+    color: gray;
+}
